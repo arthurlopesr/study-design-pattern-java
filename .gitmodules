@@ -1,3 +1,6 @@
 [submodule "strategy-design-pattern-java"]
 	path = strategy-design-pattern-java
 	url = https://github.com/arthurlopesr/strategy-design-pattern-java.git
+[submodule "chain-of-responsibility-design-pattern-java"]
+	path = chain-of-responsibility-design-pattern-java
+	url = https://github.com/arthurlopesr/chain-of-responsibility-design-pattern-java
